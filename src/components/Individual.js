@@ -16,7 +16,7 @@ const Individual = () => {
 
   return (
     <div>
-      <h1>{data.name}</h1>
+      <h5>{data.name}</h5>
       <h2>{data.email}</h2>
       <p>{data.username}</p>
     
